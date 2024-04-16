@@ -7,6 +7,8 @@
 नमस्ते (Namaste), I Am Prashant Kumar!<br>
 </h1>
 
+<img scr="https://github.com/03prashantk/03prashantk/blob/main/assets/greeting.svg"/ >
+
 <p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile;Full-Stack+Web+Developer;Always+Learning+New+Things;Please+Do+Not+Hesitate+To+Open+An+Issue+Or+Submit+A+Pull+Request.)](https://git.io/typing-svg)
