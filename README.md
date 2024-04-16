@@ -38,7 +38,8 @@
 <br>
 <img align="right" alt="coding" width="250" src="https://github.com/03prashantk/03prashantk/blob/main/assets/keep_coding.gif">
 
-![](https://komarev.com/ghpvc/?username=03prashantpk&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
+![](https://komarev.com/ghpvc/?username=03prashantpk&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)  - @03prashantpk <br>
+![](https://komarev.com/ghpvc/?username=03prashantk&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=165763830) - @03prashantk (This Profile) <br>
 
 ### I am a web developer
 
