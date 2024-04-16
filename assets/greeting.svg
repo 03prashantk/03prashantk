@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250">
+  <style>
+    /* Neon Blue Shadow Effect */
+    @keyframes neon {
+      0%, 100% {
+        text-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 30px #00f, 0 0 40px #00f, 0 0 70px #00f, 0 0 80px #00f, 0 0 100px #00f, 0 0 150px #00f;
+      }
+      50% {
+        text-shadow: none;
+      }
+    }
+  </style>
+  
+  <script type="text/ecmascript">
+    <![CDATA[
+      // Get the current time
+      var currentTime = new Date().getHours();
+      
+      // Greetings based on time of day
+      var greeting = "";
+      if (currentTime < 12) {
+        greeting = "Good morning!";
+      } else if (currentTime < 18) {
+        greeting = "Good afternoon!";
+      } else if (currentTime < 22) {
+        greeting = "Good evening!";
+      } else {
+        greeting = "Hey coder, bothering you? Why are you still up?";
+      }
+      
+      // Adding text
+      var text = document.createElementNS("http://www.w3.org/2000/svg", "text");
+      text.setAttribute("x", "50%");
+      text.setAttribute("y", "50%");
+      text.setAttribute("text-anchor", "middle");
+      text.setAttribute("dominant-baseline", "middle");
+      text.setAttribute("font-size", "36");
+      text.setAttribute("fill", "#fff"); // Light color for text
+      text.setAttribute("font-family", "Arial, sans-serif"); // Font family
+      
+      // Apply neon blue shadow effect using animation
+      text.style.animation = "neon 1.5s infinite alternate";
+      
+      text.textContent = greeting;
+      
+      // Appending text to SVG
+      document.currentScript.parentElement.appendChild(text);
+      
+      // Adding credit text
+      var creditText = document.createElementNS("http://www.w3.org/2000/svg", "text");
+      creditText.setAttribute("x", "50%");
+      creditText.setAttribute("y", "95%");
+      creditText.setAttribute("text-anchor", "middle");
+      creditText.setAttribute("dominant-baseline", "middle");
+      creditText.setAttribute("font-size", "10");
+      creditText.setAttribute("fill", "#f1f1f1"); // Light gray color for credit text
+      creditText.textContent = "03prashantpk";
+      document.currentScript.parentElement.appendChild(creditText);
+    ]]>
+  </script>
+</svg>
