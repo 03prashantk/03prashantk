@@ -7,7 +7,7 @@
 नमस्ते (Namaste), I Am Prashant Kumar!<br>
 </h1>
 
-<img scr="https://github.com/03prashantk/03prashantk/blob/main/assets/greeting.svg"/ >
+<img scr="https://github.com/03prashantk/03prashantk/blob/main/assets/greeting.svg" alt="greet" / >
 
 <p align="center">
 
