@@ -1,7 +1,5 @@
-![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/header.png)
+![](https://github.com/03prashantk/03prashantk/blob/main/assets/header.png)
 
-
-# Notice:
 
 ### The GitHub account "03prashantpk" has been flagged due to suspicious login activity. A request for reinstatement has been submitted. In the interim, this alternate account will be utilized.
 
@@ -38,7 +36,7 @@
 
 
 <br>
-<img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
+<img align="right" alt="coding" width="250" src="https://github.com/03prashantk/03prashantk/blob/main/assets/keep_coding.gif">
 
 ![](https://komarev.com/ghpvc/?username=03prashantpk&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
 
@@ -99,7 +97,7 @@
 
 | | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <img align="left" alt="Google" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/google-2015-google-new-google-icon.svg" /> | <img align="left" alt="W3school" width="50px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/w3school.png" /> | <img align="left" alt="gfg" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/geeksforgeeks-17.png" /> | <img align="left" alt="Udemy" width="55px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/udemy.webp" /> | <img align="left" alt="Codepen" width="55px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/social-32-512.webp" /> | <img align="left" alt="YouTube" width="60px" src="https://static.vecteezy.com/system/resources/thumbnails/022/721/714/small_2x/youtube-logo-for-popular-online-media-content-creation-website-and-application-free-png.png" /> | <img align="left" alt="coursera" width="80px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coursera_logo_icon.png" /> | <img align="left" alt="coursera" width="40px" src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" /> | <img align="left" alt="coursera" width="40px" src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" /> | <img align="left" alt="coursera" width="40px" src="https://automationswitch.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/08/23010947/Mid-journey-logo.png" /> |
+| <img align="left" alt="Google" width="60px" src="https://github.com/03prashantk/03prashantk/blob/main/assets/google-2015-google-new-google-icon.svg" /> | <img align="left" alt="W3school" width="50px" src="https://github.com/03prashantk/03prashantk/blob/main/assets/w3school.png" /> | <img align="left" alt="gfg" width="60px" src="https://github.com/03prashantk/03prashantk/blob/main/assets/geeksforgeeks-17.png" /> | <img align="left" alt="Udemy" width="55px" src="https://github.com/03prashantk/03prashantk/blob/main/assets/udemy.webp" /> | <img align="left" alt="Codepen" width="55px" src="https://github.com/03prashantk/03prashantk/blob/main/assets/social-32-512.webp" /> | <img align="left" alt="YouTube" width="60px" src="https://static.vecteezy.com/system/resources/thumbnails/022/721/714/small_2x/youtube-logo-for-popular-online-media-content-creation-website-and-application-free-png.png" /> | <img align="left" alt="coursera" width="80px" src="https://github.com/03prashantk/03prashantk/blob/main/assets/coursera_logo_icon.png" /> | <img align="left" alt="coursera" width="40px" src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" /> | <img align="left" alt="coursera" width="40px" src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" /> | <img align="left" alt="coursera" width="40px" src="https://automationswitch.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/08/23010947/Mid-journey-logo.png" /> |
 
 
 <br><br>
@@ -109,20 +107,21 @@
 <hr/>
 <br>
 
+[![wakatime](https://wakatime.com/badge/github/03prashantk/03prashantk.svg)](https://wakatime.com/badge/github/03prashantk/03prashantk)
 
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=03prashantpk&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true" width="100%"> | <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=03prashantpk&layout=compact&theme=blue-green" width="100%"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=03prashantk&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true" width="100%"> | <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=03prashantk&layout=compact&theme=blue-green" width="100%"> |
 | --- | --- |
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=03prashantpk&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats) | ![](https://activity-graph.herokuapp.com/graph?username=03prashantpk&theme=github) | <img src="https://i.postimg.cc/NGTx0sk1/Screenshot-2024-01-09-at-20-29-40-Entrepreneur-s-Abode-of-Alliance.png" width="80px" alt="enally" />
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=03prashantk&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats) | ![](https://activity-graph.herokuapp.com/graph?username=03prashantk&theme=github) | <img src="https://i.postimg.cc/NGTx0sk1/Screenshot-2024-01-09-at-20-29-40-Entrepreneur-s-Abode-of-Alliance.png" width="80px" alt="enally" />
 
 
 
 
 <p align="center">
-<a href="https://diligentcreator.ml/u/admin" target="_blank">
+<a href="https://diligentcreator.tech/u/admin" target="_blank">
  
-![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/profile-cloud.png)
+![](https://github.com/03prashantk/03prashantk/blob/main/assets/profile-cloud.png)
   
 </a>
 </p>
@@ -140,7 +139,7 @@
 
 <a href="https://www.linkedin.com/in/03prashantpk/">
 
-![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png)
+![](https://github.com/03prashantk/03prashantk/blob/main/assets/footer3.png)
 
 </a>
 
