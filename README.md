@@ -109,6 +109,8 @@
 
 [![wakatime](https://wakatime.com/badge/github/03prashantk/03prashantk.svg)](https://wakatime.com/badge/github/03prashantk/03prashantk)
 
+[![wakatime](https://wakatime.com/badge/user/018ee2e3-05bb-4c1c-83b7-74934ab8c468/project/018ee2e3-5d3d-4115-a969-1a2848f6e729.svg)](https://wakatime.com/badge/user/018ee2e3-05bb-4c1c-83b7-74934ab8c468/project/018ee2e3-5d3d-4115-a969-1a2848f6e729)
+
 
 
 | <img src="https://github-readme-stats.vercel.app/api?username=03prashantk&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true" width="100%"> | <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=03prashantk&layout=compact&theme=blue-green" width="100%"> |
