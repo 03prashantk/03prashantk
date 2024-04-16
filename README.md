@@ -17,22 +17,11 @@
  
 ## TOP NEW PROJECTS
 
-**0. [UniChat - App](https://unichatapp.vercel.app)**
-- Description: University App - Chat, Date, Create Rooms, Food and more.
+**1. [UniChat - App](https://unichatapp.vercel.app)** - University App - Chat, Date, Create Rooms, Food and more.
 
-**1. [Diligent Creators](https://diligentcreator.tech/)**
-- Description: Online Resumne/Portfolio Web Page creator (Without Coding).
-- [Visit My Resume](https://diligentcreator.tech/u/admin)
+**2. [Classroom Bucket](https://linkinblink.enally.in/)** - From strangers to friends, the journey never ends. (Watch Videos with strangers)
 
-**2. [Classroom Bucket](https://enally.in/files-manager/)**
-- Description: BTech All Study Materials in One Bucket.
-
-**3. [My Class Bot - ONLINE STUDENTS MUST WATCH](https://enally.in/files-manager/myclassbot)**
-- Description: Python Bot and for more visit the below link
-
-**4. [Website](https://enally.in/)**
-- Description: Enally.in
-
+**5. [Website](https://enally.in/)** - Enally.in. (All Others Projects)
 
 
 <br>
